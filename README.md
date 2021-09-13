@@ -19,5 +19,5 @@ The app was developped in **React native** using **expo**, for the barcode scan 
 The api was developped in **Ruby On Rails** and uses **Heroku**.  
 
 ## Credits:
-* Project management + Back development: [Rodolphe Dupuis](https://github.com/rodolphedps)
+* Project management + Back development: [Rodolphe Dupuis](https://github.com/RodolpheDupuis)
 * Front development: [Eliott Palueau](https://github.com/EliottPal)
